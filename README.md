@@ -1,2 +1,1 @@
-# secure.encryptedconnection
-Broo
+# uat.solace-platform
